@@ -1,4 +1,4 @@
-# freevps.us-Post-Count-Script
+# freevps.us-Post-Count-Scriptee
 
 Initial date 23 Sep 2017
 
